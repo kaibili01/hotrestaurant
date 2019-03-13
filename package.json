@@ -2,7 +2,7 @@
   "name": "hotrestaurant",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "dependencies": {
     "express": "^4.16.4",
     "nodemon": "^1.18.10",
